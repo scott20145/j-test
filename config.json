@@ -2,9 +2,10 @@
 	"test": 123,
 	"projects": {
 		"project1": {
-			"p1": 1,
-			"p2": 2,
-			"p3": 3
+			"CLIENT_VERSION": "v1.0.0"
+		},
+		"project2": {
+			"CLIENT_VERSION": "v1.0.1"
 		}
 	}
 }
